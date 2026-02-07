@@ -16,7 +16,7 @@ The model predicts **Salary based on Years of Experience** using **gradient desc
   - `Salary` (dependent variable)
 - **Number of observations:** 30
 
----
+--- 
 
 ## Mathematical Model
 
